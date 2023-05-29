@@ -1,0 +1,37 @@
+.product__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 80%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.product__info .left img {
+  width: 100%;
+  height: auto;
+}
+.product__info .right {
+  width: 35%;
+  font-weight: normal;
+}
+.product__info .right h1 {
+  font-weight: 500;
+}
+.product__info .newDiv {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  gap: 20px;
+}
+.product__info .buy {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+.product__info .buy .icon {
+  cursor: pointer;
+}/*# sourceMappingURL=ProductInfo.css.map */

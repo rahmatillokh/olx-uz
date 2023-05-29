@@ -1,0 +1,17 @@
+import Ball from "./ball.png"
+import Car from "./car.png"
+import Detskiy from "./detskiy.png"
+import Dog from "./dog.png"
+import Halat from "./halat.png"
+import Key from "./key.png"
+import Kraska from "./kraska.png"
+import Logo from "./Logo.png"
+import Noll from "./noll.png"
+import Obmen from "./obmen.png"
+import Phone from "./phone.png"
+import Portfell from "./portfell.png"
+import Dom from "./dom.png"
+import GooglePlay from "./googlePlay.png"
+import AppStore from "./appstore.png"
+
+export { Portfell, Ball, Car, Detskiy, Dog, Halat, Key, Kraska, Logo, Noll, Obmen, Phone, Dom, AppStore, GooglePlay }
